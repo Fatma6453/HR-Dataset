@@ -1,5 +1,9 @@
 # HR-Analysis
 
+![image](https://github.com/Fatma6453/HR-Dataset/assets/111332491/5d79b223-6530-4aee-bfd8-bcb9ea9cbe83)
+
+
+
 ###  Content 
 - [Overview](overview)
 - [Tool](#tool)
@@ -46,3 +50,9 @@ Analyze the reasons behind the high attrition rate among Laboratory Technicians:
 
 Conduct employee surveys or exit interviews to identify factors contributing to dissatisfaction or turnover within this job role.
 Address any potential issues related to workload, compensation, career growth opportunities, or work environment to improve retention.
+
+#  DASHBOARD
+
+![Screenshot 2024-03-01 162443](https://github.com/Fatma6453/HR-Dataset/assets/111332491/8dbc0351-ca32-4c69-a312-6ad1bec671e1)
+
+
